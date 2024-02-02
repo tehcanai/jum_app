@@ -47,29 +47,14 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCLNsY_xwMNw9fn6TJgXhETTyne8PxLcOM',
-    appId: '1:396836003350:web:e0765730ff4f8127af1f37',
-    messagingSenderId: '396836003350',
-    projectId: 'jumapp-7786d',
-    authDomain: 'jumapp-7786d.firebaseapp.com',
-    storageBucket: 'jumapp-7786d.appspot.com',
+    //keys here
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA4LGSw_6-bhYB7X-txd6sL-VpP_S9aJlc',
-    appId: '1:396836003350:android:1022921842a2c55eaf1f37',
-    messagingSenderId: '396836003350',
-    projectId: 'jumapp-7786d',
-    storageBucket: 'jumapp-7786d.appspot.com',
+    //keys here
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB2_BkaarPCKLRp9DwnfS1JJ1xzvOT-NrE',
-    appId: '1:396836003350:ios:8ff8a96c733395deaf1f37',
-    messagingSenderId: '396836003350',
-    projectId: 'jumapp-7786d',
-    storageBucket: 'jumapp-7786d.appspot.com',
-    iosClientId: '396836003350-saq8adsm6bagbi60c7glpnodq4eet6mo.apps.googleusercontent.com',
-    iosBundleId: 'com.example.jumApp',
+    //keys here
   );
 }
